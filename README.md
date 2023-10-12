@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://SoloDeveloperAlpha.github.io/Edie-Homepage-master/">
+    <a href="https://solodeveloperalpha.github.io/Edie-Homepage-master/">
       Demo
     </a>
     <span> | </span>
